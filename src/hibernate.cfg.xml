@@ -4,7 +4,7 @@
 
 <hibernate-configuration>
 
-    <session-factory>
+    <session-factory>thejes
 
         <!-- JDBC Database connection settings -->
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
